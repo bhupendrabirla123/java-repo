@@ -1,2 +1,2 @@
 # java-repo
-java class
+first repo
